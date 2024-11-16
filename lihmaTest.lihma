@@ -1,0 +1,6 @@
+hihi = "hoho"
+
+hehe = "huhu"
+hehe = 123
+
+console = hehe
